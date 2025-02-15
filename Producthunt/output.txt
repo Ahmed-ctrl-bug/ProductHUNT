@@ -1,0 +1,25 @@
+Debug screenshot saved as debug_full_page.png
+Found 8 sections.
+Section 1 has 2 link(s).
+Section 1, Link 1: 1. DeskMinder
+Section 1, Link 2: Create quick desktop reminders with just one click
+Section 2 has 2 link(s).
+Section 2, Link 1: 2. Entie - Couple Assistant
+Section 2, Link 2: Personalized romantic relationship assistant for couples
+Section 3 has 2 link(s).
+Section 3, Link 1: 3. Subtrace
+Section 3, Link 2: Resolve production issues faster
+Section 4 has 2 link(s).
+Section 4, Link 1: 4. Sefirah
+Section 4, Link 2: An opensource way of connecting your Android and Windows
+Section 5 has 2 link(s).
+Section 5, Link 1: 5. Nia
+Section 5, Link 2: AI code agent that actually understands your codebase
+Section 6 has 1 link(s).
+Section 6, Link 1: Sign Up
+Section 7 has 2 link(s).
+Section 7, Link 1: 6. Kann for Android
+Section 7, Link 2: Learn Japanese vocabulary you care about!
+Section 8 has 2 link(s).
+Section 8, Link 1: 7. Lovify
+Section 8, Link 2: Enhance your Lovable.dev experience
